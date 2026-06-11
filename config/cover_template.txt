@@ -1,0 +1,10 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the {title} position at {company}. With my background in {key_skills}, I believe I would be a strong addition to your team.
+
+{experience_highlights}
+
+I am excited about the opportunity to contribute to {company}'s mission and would welcome the chance to discuss how my skills and experience align with your needs.
+
+Best regards,
+{name}

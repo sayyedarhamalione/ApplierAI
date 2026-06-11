@@ -1,0 +1,46 @@
+# Job Applier 2026 — User Profile
+# Fill in your real data below.
+
+personal:
+  name: "Your Name"
+  email: "you@example.com"
+  phone: "+1-555-000-0000"
+  location: "San Francisco, CA"
+  linkedin: "https://linkedin.com/in/yourname"
+  website: null
+  github: null
+
+experience:
+  - title: "Software Engineer"
+    company: "Acme Corp"
+    dates: "2023-2026"
+    bullets:
+      - "Built scalable backend services handling 10K+ req/s"
+      - "Led migration from monolith to microservices"
+      - "Mentored 3 junior engineers"
+
+  - title: "Junior Developer"
+    company: "StartupXYZ"
+    dates: "2021-2023"
+    bullets:
+      - "Developed React frontend for SaaS product"
+      - "Implemented CI/CD pipelines reducing deploy time by 60%"
+
+education:
+  - degree: "BS Computer Science"
+    school: "State University"
+    year: 2021
+
+skills:
+  - Python
+  - TypeScript
+  - React
+  - FastAPI
+  - PostgreSQL
+  - Docker
+  - AWS
+  - Git
+
+documents:
+  resume_path: "./config/resume.pdf"
+  cover_letter_template: "./config/cover_template.txt"

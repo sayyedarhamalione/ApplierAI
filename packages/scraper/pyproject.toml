@@ -1,0 +1,14 @@
+[project]
+name = "job-applier-scraper"
+version = "0.1.0"
+description = "Apify actor configurations and local dev scrapers"
+requires-python = ">=3.11"
+dependencies = [
+    "job-applier-core",
+    "apify-client>=1.8",
+    "httpx>=0.27",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

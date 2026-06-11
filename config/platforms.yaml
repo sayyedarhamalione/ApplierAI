@@ -1,0 +1,14 @@
+# Job Applier 2026 — Platform Credentials & Cookies
+# NEVER commit real cookies. Use .gitignore to exclude cookie JSON files.
+
+linkedin:
+  cookies_file: "./config/linkedin_cookies.json"
+  proxy: "residential-us"
+
+indeed:
+  cookies_file: "./config/indeed_cookies.json"
+  proxy: "residential-us"
+
+wellfound:
+  cookies_file: "./config/wellfound_cookies.json"
+  proxy: "residential-us"
